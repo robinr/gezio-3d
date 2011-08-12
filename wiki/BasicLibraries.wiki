@@ -3,11 +3,11 @@
 
 = Introduction =
 
-The Drop R1 has the following two libraries.
+The Drop R2 has the following two libraries.
 
-[1] 3DMath
-[2] 3DGraph
+![1] 3DMath
+![2] 3DGraph
 
 = Details =
 
-Using this we can do very basic graphics.
+Using this we can do very basic math and graphics.
