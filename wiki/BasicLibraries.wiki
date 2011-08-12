@@ -1,0 +1,13 @@
+#summary One-sentence summary of this page.
+#labels Featured,Phase-Requirements,Phase-Design
+
+= Introduction =
+
+The Drop R1 has the following two libraries.
+
+[1] 3DMath
+[2] 3DGraph
+
+= Details =
+
+Using this we can do very basic graphics.
