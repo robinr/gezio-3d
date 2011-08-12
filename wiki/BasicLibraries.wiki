@@ -5,8 +5,8 @@
 
 The Drop R2 has the following two libraries.
 
-![1] 3DMath
-![2] 3DGraph
+(1) 3DMath
+(2) 3DGraph
 
 = Details =
 
