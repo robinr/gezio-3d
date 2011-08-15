@@ -3,18 +3,15 @@
 
 = Introduction =
 
-The Drop R2 has the following two libraries.
-
-(1) 3DMath
-(2) 3DGraph
 
 We have finally all the libraries and an app to work on:
-*  3DMath
-*  3DGraph
-*  3DModel
-*  3DAddobj
-*  3DDispobj
-
+     *  3DMath
+     *  3DGraph
+     *  3DModel
+     *  3DAddobj
+     *  3DDispobj
+          #  main/app.c/app.h
+          
 
 
 = Details =
